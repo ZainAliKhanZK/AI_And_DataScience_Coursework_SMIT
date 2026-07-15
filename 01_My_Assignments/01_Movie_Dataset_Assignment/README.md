@@ -53,7 +53,7 @@ This notebook works through a series of data analysis tasks, including:
 
 ## 📁 Files
 
-- `movie_eda.ipynb` — main analysis notebook
+- `Movie_Data_Assignment.ipynb` — main analysis notebook
 - `movie.csv` — dataset used
 
 ## 🚀 How to Run
