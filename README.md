@@ -1,1 +1,1 @@
-# AI_And_DataScience_Coursework_SMIT
+# AI_DataScience_Coursework_SMIT
