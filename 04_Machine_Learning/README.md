@@ -1,2 +1,1 @@
-# Getting Started with Machine Learninggggggg
-g
+# Getting Started with Machine Learning
