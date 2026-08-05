@@ -1,3 +1,4 @@
 # AI_DataScience_Coursework_SMIT
 
 - Assignments
+- Project
