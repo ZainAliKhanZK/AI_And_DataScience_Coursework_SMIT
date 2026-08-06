@@ -1,3 +1,4 @@
 # All Assignments
 
-- Completed Assignment
+- Completed Assignments
+- Timely Work
