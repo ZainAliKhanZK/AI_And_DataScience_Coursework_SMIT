@@ -1,3 +1,3 @@
 # All Assignments
 
-- Completed Assign
+- Completed Assignment
