@@ -1,3 +1,3 @@
 # Getting Started with Machine Learning
 
-- Simple Linear
+- Simple Linear Regression
