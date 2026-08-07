@@ -3,4 +3,4 @@
 - Simple Linear Regression
 - Polynomial Regression
 - Lasso Regression
-- Ridge Regress
+- Ridge Regression
