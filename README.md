@@ -4,3 +4,4 @@
 - Projects
 - Frameworks
 - Concepts
+- Self-Learning
