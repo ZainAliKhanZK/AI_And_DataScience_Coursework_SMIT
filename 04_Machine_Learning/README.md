@@ -8,6 +8,7 @@
 
 #### Visualizing
 - Charts
+- Barplot
 
 #### Model Selection
 - Simple Linear Regression
