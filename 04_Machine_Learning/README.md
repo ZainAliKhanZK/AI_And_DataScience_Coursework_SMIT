@@ -3,7 +3,7 @@
 #### Data Cleaning
 - Cleaning
 - Preprocessing
-- 
+- Encoding
 
 #### Model Selection
 - Simple Linear Regression
