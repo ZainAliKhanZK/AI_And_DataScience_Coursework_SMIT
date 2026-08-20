@@ -9,6 +9,7 @@
 #### Visualizing
 - Charts
 - Barplot
+- ScatterPlot
 
 #### Model Selection
 - Simple Linear Regression
