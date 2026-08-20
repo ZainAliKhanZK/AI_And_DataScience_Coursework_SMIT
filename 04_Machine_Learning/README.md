@@ -16,6 +16,7 @@
 - Traing and Testing
 - Model Selection
 - Prediction
+- Evaluation
   
 - Simple Linear Regression
 - Polynomial Regression
