@@ -3,3 +3,4 @@
 - Completed Assignments
 - Attached Readme in MD
 - Timely Work
+- Proper Submission
