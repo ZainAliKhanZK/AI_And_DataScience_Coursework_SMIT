@@ -15,6 +15,7 @@
 - Splitting X & y
 - Traing and Testing
 - Model Selection
+- Prediction
   
 - Simple Linear Regression
 - Polynomial Regression
