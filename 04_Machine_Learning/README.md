@@ -23,3 +23,5 @@
 - Polynomial Regression
 - Lasso Regression
 - Ridge Regression
+
+#### Classification
