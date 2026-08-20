@@ -5,3 +5,4 @@
 - Frameworks
 - Concepts
 - Self-Learning
+- Thinking
