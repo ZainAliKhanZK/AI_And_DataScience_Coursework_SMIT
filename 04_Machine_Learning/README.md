@@ -12,6 +12,9 @@
 - ScatterPlot
 
 #### Model Selection
+- Splitting X & y
+- Traing and Testing
+  
 - Simple Linear Regression
 - Polynomial Regression
 - Lasso Regression
