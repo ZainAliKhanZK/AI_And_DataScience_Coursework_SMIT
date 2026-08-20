@@ -6,6 +6,9 @@
 - Encoding
 - Scaling
 
+#### Visualizing
+- Charts
+
 #### Model Selection
 - Simple Linear Regression
 - Polynomial Regression
