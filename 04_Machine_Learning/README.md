@@ -4,6 +4,7 @@
 - Cleaning
 - Preprocessing
 - Encoding
+- Scaling
 
 #### Model Selection
 - Simple Linear Regression
