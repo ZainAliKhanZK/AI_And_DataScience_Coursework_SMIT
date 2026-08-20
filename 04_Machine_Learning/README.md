@@ -14,6 +14,7 @@
 #### Model Selection
 - Splitting X & y
 - Traing and Testing
+- Model Selection
   
 - Simple Linear Regression
 - Polynomial Regression
