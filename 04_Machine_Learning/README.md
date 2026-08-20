@@ -1,6 +1,8 @@
 # Getting Started with Machine Learning
 
-- Data Cleaning
+#### Data Cleaning
+
+- Preprocessing
 
 - Simple Linear Regression
 - Polynomial Regression
