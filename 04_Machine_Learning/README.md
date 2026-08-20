@@ -17,7 +17,8 @@
 - Model Selection
 - Prediction
 - Evaluation
-  
+
+#### Regression Model
 - Simple Linear Regression
 - Polynomial Regression
 - Lasso Regression
