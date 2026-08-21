@@ -24,4 +24,4 @@
 - Lasso Regression
 - Ridge Regression
 
-#### Classification Model
+#### Classification Modell
