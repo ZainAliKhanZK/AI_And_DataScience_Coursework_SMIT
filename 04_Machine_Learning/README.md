@@ -10,7 +10,7 @@ wddas
 - Charts
 - Barplot
 - ScatterPlot
-as dwasdd w frse
+as dwasdd w frsegtrdfg
 #### Model Selection
 - Splitting X & y
 - Traing and Testing
