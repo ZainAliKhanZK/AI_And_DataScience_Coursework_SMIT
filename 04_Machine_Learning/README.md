@@ -10,7 +10,7 @@ mjjmhngh
 - Charts
 - Barplot
 - ScatterPlot
-
+as dwasdd w 
 #### Model Selection
 - Splitting X & y
 - Traing and Testing
