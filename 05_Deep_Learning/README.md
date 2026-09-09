@@ -4,3 +4,4 @@
 - ANN
 - CNN
 - RNN
+- FNN
