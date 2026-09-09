@@ -2,5 +2,5 @@
 
 ## Neural Networks
 - ANN
-
+- CNN
 
