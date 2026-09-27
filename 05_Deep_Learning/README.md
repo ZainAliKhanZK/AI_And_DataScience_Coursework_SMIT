@@ -6,3 +6,4 @@
 - RNN
 - FNN
 - LSTM
+- GRU
