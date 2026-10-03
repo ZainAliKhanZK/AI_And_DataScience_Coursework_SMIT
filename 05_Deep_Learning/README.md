@@ -25,7 +25,7 @@
 
 
 ## - RNN
-- Recurrent
+- Recurrent Neural
 
 
 ## - FNN
