@@ -22,6 +22,7 @@
 ## - CNN
 - Convolutional Neural Networks
 - To Convolate
+- Images 
 
 
 ## - RNN
