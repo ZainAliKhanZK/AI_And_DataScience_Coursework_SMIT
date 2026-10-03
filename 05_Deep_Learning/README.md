@@ -1,6 +1,4 @@
-# Deep Learning
-
-# Neural Networks
+# Deep Learning & Neural Networks
 ## - ANN
 - **Image (MNIST)**           >  Binary Classification Problem: Last Layers Contains 2 Neurons + Activation Function
 
