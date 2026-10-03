@@ -29,5 +29,7 @@
 
 
 ## - FNN
-- LSTM
+-
+
+## - LSTM
 - GRU
