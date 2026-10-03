@@ -20,7 +20,7 @@
 
   
 ## - CNN
-- Convolutional
+- Convolutional Neural
 
 
 - RNN
