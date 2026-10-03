@@ -28,6 +28,6 @@
 - Recurrent
 
 
-- FNN
+## - FNN
 - LSTM
 - GRU
