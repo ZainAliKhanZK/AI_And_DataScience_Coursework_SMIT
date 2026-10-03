@@ -25,7 +25,7 @@
 
 
 ## - RNN
-- Recurrent Neural
+- Recurrent Neural Networks
 
 
 ## - FNN
