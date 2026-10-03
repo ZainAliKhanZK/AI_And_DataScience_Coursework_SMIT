@@ -20,7 +20,7 @@
 
   
 ## - CNN
-- Convo
+- Convolutional
 
 
 - RNN
