@@ -20,6 +20,9 @@
 
   
 ## - CNN
+- Convo
+
+
 - RNN
 - FNN
 - LSTM
