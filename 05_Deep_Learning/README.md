@@ -21,10 +21,10 @@
   
 ## - CNN
 - Convolutional Neural Networks
-- 
+- To Convolate
 
 
-- RNN
+## - RNN
 - FNN
 - LSTM
 - GRU
