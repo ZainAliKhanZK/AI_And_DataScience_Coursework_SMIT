@@ -22,7 +22,8 @@
 - Convolutional Neural Networks
 - To Convolate
 - Images
-- Com
+- Compute
+
 
 
 ## - RNN
