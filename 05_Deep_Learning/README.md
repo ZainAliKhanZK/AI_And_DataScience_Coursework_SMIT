@@ -22,7 +22,7 @@
 - Convolutional Neural Networks
 - To Convolate
 - Images
-- Compute
+- Computer Vision
 
 
 
