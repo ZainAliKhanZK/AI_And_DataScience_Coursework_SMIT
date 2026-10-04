@@ -23,6 +23,7 @@
 - To Convolate
 - Images
 - Computer Vision
+- CV2
 
 
 
