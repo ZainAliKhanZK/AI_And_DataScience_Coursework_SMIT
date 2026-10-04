@@ -38,4 +38,4 @@
 
 ## - GRU
 
-## - Transform
+## - Transformer
